@@ -1,0 +1,11 @@
+ul li{
+	list-style-type: decimal;
+	height: 25px;
+	width: 300px;
+	margin-top: 10px;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 5px;
+	text-align: center;
+	cursor: move;
+}
